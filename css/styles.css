@@ -1,4 +1,18 @@
 /* Custom Fonts */
+@font-face {
+  font-family: "roboto_slab";
+  src: url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.eot");
+  src: url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.woff2")
+      format("woff2"),
+    url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.woff")
+      format("woff"),
+    url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* Reset */
 
@@ -9,3 +23,7 @@
 }
 
 /* Global Rules */
+
+h1 {
+  font-family: "roboto_slab";
+}

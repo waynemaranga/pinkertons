@@ -1,1 +1,4 @@
 pinkertons.code-workspace
+.vscode
+sketches
+node_modules
