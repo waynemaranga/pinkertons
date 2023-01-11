@@ -1,4 +1,6 @@
-/* Custom Fonts */
+/*=== Custom Fonts ===*/
+
+/* Roboto Slab */
 @font-face {
   font-family: "roboto_slab";
   src: url("../assets/woff/roboto_slab/robotoslab-variablefont_wght-webfont.eot");
@@ -14,7 +16,20 @@
   font-style: normal;
 }
 
-/* Reset */
+/* Roboto Regular */
+@font-face {
+  font-family: "roboto_reg";
+  src: url("../assets/woff/roboto/roboto-regular-webfont.eot");
+  src: url("../assets/woff/roboto/roboto-regular-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/woff/roboto/roboto-regular-webfont.woff2") format("woff2"),
+    url("../assets/woff/roboto/roboto-regular-webfont.woff") format("woff"),
+    url("../assets/woff/roboto/roboto-regular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*=== Reset ===*/
 
 * {
   box-sizing: border-box;
@@ -25,5 +40,6 @@
 /* Global Rules */
 
 h1 {
-  font-family: "roboto_slab";
+  font-family: "roboto_slab", sans-serif;
+  font-weight: bold;
 }
