@@ -10,3 +10,4 @@
    [Photo by Ivan from Pexels](https://www.pexels.com/photo/silver-suit-case-129543/)
 6. assets/img/pexels-cottonbro-studio-3205735.jpg
    [Photo by cottonbro studio from Pexels](https://www.pexels.com/photo/white-security-camera-3205735/)
+7. assets/img/pexels-mathias-reding-9301020.jpg [Photo by Mathias Reding from Pexels: https://www.pexels.com/photo/](security-cameras-mounted-on-the-wall-for-surveillance-9301020/)
