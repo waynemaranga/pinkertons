@@ -1,5 +1,3 @@
-/* PHP Email Form Validation */
-
 (function () {
   "use strict";
 
